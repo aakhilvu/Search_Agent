@@ -1,0 +1,64 @@
+----research output----
+ Timestamp:2025-04-20 20:50:00
+
+{
+  "topic": "Apple",
+  "summary": "Apple Inc. is a multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Five companies in the U.S. information technology industry.",
+  "sources": [
+    "Wikipedia",
+    "Web Search"
+  ],
+  "tools_used": [
+    "wikipedia",
+    "search"
+  ]
+}
+
+----research output----
+ Timestamp:2025-04-20 20:54:54
+
+{
+  "topic": "India",
+  "summary": "India is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. It's known for its rich history and diverse culture.",
+  "sources": [
+    "Wikipedia",
+    "Web Search"
+  ],
+  "tools_used": [
+    "search",
+    "wikipedia"
+  ]
+}
+
+----research output----
+ Timestamp:2025-04-20 20:55:43
+
+{
+  "topic": "India's Prime Minister",
+  "summary": "The current Prime Minister of India is Narendra Modi. He assumed office on 26 May 2014. Modi is a member of the Bharatiya Janata Party (BJP).",
+  "sources": [
+    "Wikipedia",
+    "Various news articles"
+  ],
+  "tools_used": [
+    "search",
+    "wikipedia"
+  ]
+}
+
+----research output----
+ Timestamp:2025-04-20 20:57:40
+
+{
+  "topic": "Apple",
+  "summary": "Apple Inc. is a multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Five companies in the U.S. information technology industry.",
+  "sources": [
+    "Wikipedia",
+    "Web Search"
+  ],
+  "tools_used": [
+    "wikipedia",
+    "search"
+  ]
+}
+
