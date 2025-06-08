@@ -20,12 +20,9 @@ This project is an intelligent research assistant built using **LangChain**, **G
 
 ## 🛠️ Tools Used
 
-- `search_tool` – Custom tool to perform online search.
-- `wiki_tool` – Wikipedia summarization tool.
-- `save_tool` – Tool to store result in memory or file.
-- `save_to_txt` – Saves final report to a text file.
+- `search_tool`
+- `wiki_tool`
+- `save_tool`
+- `save_to_txt` 
 
 ---
-
-## 📁 Project Structure
-
